@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h1, h3, p, #img-caption, #tribute-link {
+    text-align: center;
+  }
+  
+  #img-div {
+    max-width: 360px;
+  }
+  
+  #image {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+  }
